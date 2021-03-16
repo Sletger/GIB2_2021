@@ -1,10 +1,14 @@
 # Zusätzliche Links
 
+Wenn ihr gute YouTube-Videos, Bücher oder Veranstaltungen findet könnt ihr sie gern hier hinzufügen.
+
 
 
 ## YouTube
 
-- [Git und GitHub](https://www.youtube.com/watch?v=3ZlpJHZBbi8)
+- [Was ist Git und GitHub?](https://www.youtube.com/watch?v=3ZlpJHZBbi8)
+- [HTML + CSS Tutorial](https://www.youtube.com/watch?v=QA0XpGhiz5w) 
+- ["Algorithmen verstehen"-Kanal](https://www.youtube.com/channel/UCswWBF6ZkGnLG3sLRR65xRw)
 
 
 
