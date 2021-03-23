@@ -17,5 +17,7 @@ Wenn ihr gute YouTube-Videos, Bücher oder Veranstaltungen findet könnt ihr sie
 
 - [Java ist auch eine Insel - Christian Ullenboom](https://openbook.rheinwerk-verlag.de/javainsel9/)
 
+## Veranstaltungen
 
+- [MED.NOVATION][24.03.2021](https://mednovation.digital/)
 
