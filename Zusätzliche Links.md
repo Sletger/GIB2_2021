@@ -19,5 +19,5 @@ Wenn ihr gute YouTube-Videos, Bücher oder Veranstaltungen findet könnt ihr sie
 
 ## Veranstaltungen
 
-- [MED.NOVATION][24.03.2021](https://mednovation.digital/)
+- [MED.NOVATION - 24.03.2021](https://mednovation.digital/)
 
